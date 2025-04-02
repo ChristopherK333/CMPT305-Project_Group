@@ -21,3 +21,5 @@ Alternatively, hover over the table in order to get the data to display on the t
 Toggle buttons on the top left allows display of bike routes and neighbourhood overlay.
 
 The map can be scrolled and zoomed as required.
+
+API key currently invalid, require new API key permission. 
